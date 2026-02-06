@@ -112,3 +112,28 @@ My work can be broadly grouped into the following interconnected research themes
   Journal DOI: [10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)  
   Open Access (AAM): [Zenodo (all versions)](https://doi.org/10.5281/zenodo.18503593)
 
+- **Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis** (International Communications in Heat and Mass Transfer, 2021)  
+  Journal DOI: [10.1016/j.icheatmasstransfer.2021.105353](https://doi.org/10.1016/j.icheatmasstransfer.2021.105353)  
+  Open Access (AAM): [Zenodo](https://doi.org/10.5281/zenodo.18508764)
+
+- **Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting** (Metall. Mater. Trans. A, 2016)  
+  Journal DOI: [10.1007/s11661-016-3464-0](https://doi.org/10.1007/s11661-016-3464-0)  
+  Open Access: [Zenodo](https://doi.org/10.5281/zenodo.18508852)
+
+- **A New Baseline for the Newtonian Thermal Analysis of Casting** (J. Therm. Anal. Calorim., 2015)  
+  Journal DOI: [10.1007/s10973-014-4143-2](https://doi.org/10.1007/s10973-014-4143-2)  
+  Archive: [Zenodo](https://doi.org/10.5281/zenodo.18508935)
+
+## Other Open-Access Journal Articles (TRDizin)
+
+- **On the Newtonian Thermal Analysis of Casting: A Critical Approach**  
+  Open Access (Journal PDF): [Full text](https://dergipark.org.tr/tr/download/article-file/43805)
+
+- **Determination of Romantic Relationship Categories and Investigation of Their Dynamical Properties**  
+  Open Access (Journal PDF): [Full text](https://dergipark.org.tr/tr/download/article-file/1994125)
+
+- **Modeling Love with 4D Dynamical System**  
+  Open Access (Journal PDF): [Full text](https://dergipark.org.tr/en/download/article-file/2491544)
+
+- **Suggestion of a Perimeter Formula for Super Ellipses and Their Use in Rectangular Boundary Value Problems in Physics**  
+  Open Access (Journal PDF): [Full text](https://dergipark.org.tr/en/download/article-file/2171781)
