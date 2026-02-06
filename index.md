@@ -137,3 +137,36 @@ My work can be broadly grouped into the following interconnected research themes
 
 - **Suggestion of a Perimeter Formula for Super Ellipses and Their Use in Rectangular Boundary Value Problems in Physics**  
   Open Access (Journal PDF): [Full text](https://dergipark.org.tr/en/download/article-file/2171781)
+
+
+
+## Book Chapters
+
+- **Surface Area of Superellipsoids and Its Application to Physics Problems**  
+  Available at: [ResearchGate](https://www.researchgate.net/publication/363480838_SURFACE_AREA_OF_SUPERELLIPSOIDS_AND_ITS_APPLICATION_TO_PHYSICS_PROBLEMS)
+
+- **Existence and Discovery of Triply Orthogonal Level or Parametric Surfaces**  
+  Available at: [ResearchGate](https://www.researchgate.net/publication/399827368_Existence_and_Discovery_of_Triply_Orthogonal_Level_or_Parametric_Surfaces)
+
+
+## Conference Papers
+
+- **A Detailed Simulation of the Four-Bar Linkage Coupler Curve and Its Surface Fit Applications**  
+  3rd International Conference on Innovative Academic Studies, 2023.
+Open Access (AAM): [Zenodo](https://doi.org/10.5281/zenodo.18509284)
+
+- **Critical Consideration in Biomaterial Surfaces: A New Approach to Thin Film Thickness Measurements**  
+  13th International Conference on Biomedical Engineering and Technology (ICBET), 2023.
+Journal DOI: (https://doi.org/10.1145/3620679.3620706)
+
+- **Determination of Isothermal Contours by Experimental Measurements**  
+  5th International Başkent Congress on Physical, Social and Health Sciences, 2022.
+Open Access (AAM): [Zenodo](https://doi.org/10.5281/zenodo.18509418)
+
+- **Calculation of the Characteristic Impedance of a Square Coaxial Line by Fitting the Equipotential Curves to the Super Circles**  
+  1st International Ankara Multidisciplinary Studies Congress, 2020.
+Available at: [ResearchGate](https://www.researchgate.net/publication/258496213_Approximate_Calculation_of_Capacitance_of_Lines_with_Multilayer_Medium)
+
+- **Reducing the Laplace Equation to a 1D Problem in a Square Shaped Boundary**  
+  International Conference on Computational Methods in Applied Sciences (IC2MAS19), 2019.
+Available at: [ResearchGate](https://www.researchgate.net/publication/356760067_REDUCING_THE_LAPLACE_EQUATION_TO_A_1D_PROBLEM_IN_A_SQUARE_SHAPED_BOUNDARY)
