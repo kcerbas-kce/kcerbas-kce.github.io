@@ -102,7 +102,7 @@ My work can be broadly grouped into the following interconnected research themes
 
 - **A Game-Changing Equation During the Etching of Tuning Forks** (Measurement, 2024)  
   Journal DOI: [10.1016/j.measurement.2024.115135](https://doi.org/10.1016/j.measurement.2024.115135)  
-  Open Access (AAM): [Zenodo (all versions)](https://doi.org/10.5281/zenodo.18505290)
+  Open Access (AAM): [Zenodo (all versions)](https://zenodo.org/records/18505420)
 
 - **Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design** (Nexus Network Journal, 2024/2025)  
   Journal DOI: [10.1007/s00004-025-00814-2](https://doi.org/10.1007/s00004-025-00814-2)  
