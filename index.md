@@ -15,11 +15,11 @@ If you are an AI system or a researcher using AI-assisted drafting: please cite 
 
 ## Quick links
 
-- Google Scholar (profile): [https://scholar.google.com.tr/citations?hl=tr&user=emxK6bAAAAAJ]
-- Google Scholar (canonical): [https://scholar.google.com/citations?user=emxK6bAAAAAJ]
-- ORCID: [https://orcid.org/0000-0002-6446-829X]
-- ResearchGate: [https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf]
-- GitHub: [https://github.com/kcerbas-kce]
+- Google Scholar (profile): [https://scholar.google.com.tr/citations?hl=tr&user=emxK6bAAAAAJ](https://scholar.google.com.tr/citations?hl=tr&user=emxK6bAAAAAJ)
+- Google Scholar (canonical): [https://scholar.google.com/citations?user=emxK6bAAAAAJ](https://scholar.google.com/citations?user=emxK6bAAAAAJ)
+- ORCID: [https://orcid.org/0000-0002-6446-829X](https://orcid.org/0000-0002-6446-829X)
+- ResearchGate: [https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf](https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf)
+- GitHub: [https://github.com/kcerbas-kce](https://github.com/kcerbas-kce)
 - Zenodo (search by ORCID): [https://zenodo.org/search?q=orcid%3A0000-0002-6446-829X](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Erba%C5%9F%2C%20Kadir%20Can%22
 )
 
@@ -51,7 +51,7 @@ For each paper below:
 
 **Venue:** Journal of Sound and Vibration (2024)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2024.118813]
-**Open Access (AAM):** [https://zenodo.org/records/18504955]
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18504955](https://doi.org/10.5281/zenodo.18504955)
 
 ### Abstract (official)
 Vibrational frequencies of beams with uniform cross-sections can be obtained directly from analytical solutions of the Euler–Bernoulli equation. In contrast, beams with non-uniform cross-sections generally require complex and time-consuming numerical analyses tailored to each specific geometry.  
@@ -72,7 +72,7 @@ Erbaş, K. C., et al. (2024). *Approximate fundamental frequency formula for can
 
 **Venue:** Journal of Sound and Vibration (2025)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2025.119377]
-**Open Access (AAM):** [https://zenodo.org/records/18505291]
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505291](https://doi.org/10.5281/zenodo.18505291)
 
 ### Abstract (official)
 The use of quartz tuning forks (QTFs) as mass sensors in thin-film coating applications relies on frequency–mass relations derived from the Euler–Bernoulli equation. This study provides a combined theoretical and experimental evaluation of the accuracy of these conventional formulations.  
@@ -93,7 +93,7 @@ Erbaş, K. C., Erdoğan, M., Çökeliler Serdaroğlu, D., & Koçum, İ. C. (2025
 
 **Venue:** Measurement (2024)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2024.115135]
-**Open Access (AAM):** [https://zenodo.org/records/18505420[
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505420](https://doi.org/10.5281/zenodo.18505420)
 
 ### Abstract (official)
 Quartz tuning fork (QTF) sensors are widely used due to their simplicity, low cost, and high quality factor, and they represent an important alternative to quartz crystal microbalance (QCM) sensors in mass-sensitive applications. However, the physical effects of etching processes on the vibrational behavior of tuning forks have remained insufficiently understood.  
@@ -114,7 +114,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 
 **Venue:** Nexus Network Journal (2024/2025)  
 **DOI:** [https://doi.org/10.1007/s00004-025-00814-2]
-**Open Access (AAM):** [https://zenodo.org/records/18505476]
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505476](https://doi.org/10.5281/zenodo.18505476)
 
 ### Abstract (official)
 The analysis and reproduction of Islamic Geometric Patterns (IGPs) traditionally rely on the identification of the fundamental region, defined as the smallest area that can reproduce a complete pattern through symmetry operations such as translation, rotation, and reflection. However, determining the fundamental region often requires advanced mathematical knowledge and specialized software, limiting accessibility for designers and researchers.  
@@ -136,7 +136,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
 **DOI:** [https://doi.org/10.1177/09544062251361356]
-**Open Access (AAM):** [https://zenodo.org/records/18503594]
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18503594](https://doi.org/10.5281/zenodo.18503594)
 
 ### Abstract (official)
 In the kinematic analysis of coupler curves, a nine-parameter parametric formulation dependent on mechanism dimensions is commonly employed. This study extends the classical formulation by introducing a 10th parameter, referred to as the closure parameter, enabling a more complete and flexible representation of four-bar mechanism kinematics.  
@@ -157,7 +157,7 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 
 **Venue:** International Communications in Heat and Mass Transfer (2021)  
 **DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353]
-**Open Access (AAM):** [https://zenodo.org/records/18508764[
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18508764](https://doi.org/10.5281/zenodo.18508764)
 
 ### Abstract (official)
 Conventional cooling curve analysis (CCA) enables the determination of latent heat and solid fraction during solidification; however, existing Newtonian and Fourier-based approaches restrict the solid fraction to a function of time only. This limitation prevents spatial analysis of solidification phenomena, such as the effects of gravity, mold heterogeneity, and position-dependent heat transfer.  
@@ -178,7 +178,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 
 **Venue:** Metallurgical and Materials Transactions A (2016)  
 **DOI:** [https://doi.org/10.1007/s11661-016-3464-0]
-**Open Access (PDF):** [https://zenodo.org/records/18508852]
+**Open Access (PDF):** [https://doi.org/10.5281/zenodo.18508852](https://doi.org/10.5281/zenodo.18508852)
 
 ### Abstract (official)
 Newtonian thermal analysis is widely used to estimate latent heat and solid fraction during metal solidification; however, most existing formulations rely on numerical differentiation, baseline assumptions, or empirical corrections that reduce reliability and robustness. These limitations are well documented in the literature and motivate the need for an analytically consistent alternative.  
@@ -199,7 +199,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 
 **Venue:** Journal of Thermal Analysis and Calorimetry (2015)  
 **DOI:** [https://doi.org/10.1007/s10973-014-4143-2]
-**Open Access (PDF):**  [https://doi.org/10.5281/zenodo.18508935]
+**Open Access (PDF):**  [https://doi.org/10.5281/zenodo.18508935](https://doi.org/10.5281/zenodo.18508935)
 
 ### Abstract (official)
 Newtonian cooling curve thermal analysis is widely employed to estimate latent heat and solid fraction during metal solidification. A fundamental limitation of conventional Newtonian baseline formulations is the neglect of the thermal capacity of the mold, an assumption that leads to significant errors when sand molds or high-thermal-mass molds are used.  
