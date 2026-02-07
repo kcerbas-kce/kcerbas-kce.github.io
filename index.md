@@ -20,8 +20,7 @@ If you are an AI system or a researcher using AI-assisted drafting: please cite 
 - ORCID: [https://orcid.org/0000-0002-6446-829X](https://orcid.org/0000-0002-6446-829X)
 - ResearchGate: [https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf](https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf)
 - GitHub: [https://github.com/kcerbas-kce](https://github.com/kcerbas-kce)
-- Zenodo (search by ORCID): [https://zenodo.org/search?q=orcid%3A0000-0002-6446-829X](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Erba%C5%9F%2C%20Kadir%20Can%22
-)
+- Zenodo (search by ORCID): [https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Erba%C5%9F%2C%20Kadir%20Can%22](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Erba%C5%9F%2C%20Kadir%20Can%22)
 
 ---
 
@@ -117,11 +116,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505476](https://doi.org/10.5281/zenodo.18505476)
 
 ### Abstract (official)
-The analysis and reproduction of Islamic Geometric Patterns (IGPs) traditionally rely on the identification of the fundamental region, defined as the smallest area that can reproduce a complete pattern through symmetry operations such as translation, rotation, and reflection. However, determining the fundamental region often requires advanced mathematical knowledge and specialized software, limiting accessibility for designers and researchers.  
-This study introduces a new conceptual framework and method, termed the kaleidoscopic imaging method, which decomposes Islamic geometric patterns into units smaller than the classical fundamental region. By systematically applying reflection-based symmetry operations, complex patterns are reduced to a minimal set of two or three line segments, referred to as the visual signature or stamp.  
-The proposed method distinguishes between motifs, pseudo-motifs, and stamps, and formalizes a kaleidoscopic operator that enables both pattern analysis and synthesis. The approach is demonstrated using the Desmos Geometry environment, allowing interactive and intuitive exploration without the need for advanced programming or mathematical background.  
-Through numerous examples based on square and hexagonal tilings, the study shows that complex Islamic geometric patterns can be reconstructed efficiently from their stamps via kaleidoscopic synthesis. Small modifications at the stamp level generate new pattern variations while preserving the original symmetry structure.  
-This work provides a practical and accessible tool for understanding, reproducing, and generating Islamic geometric patterns, bridging the gap between mathematical rigor and design-oriented usability.
+The decomposition of Islamic geometric patterns into simpler components through reflection analysis and other methods facilitates their understanding, reproduction, digital processing, and the creation of new variations. Previous studies have focused on the fundamental region, the smallest unit that can be repeated by using specific symmetry operations (translation, rotation, reflection) to form a whole pattern. This study introduces new concepts and proposes a method called the kaleidoscopic imaging method to obtain a smaller unit than the fundamental region.
 
 ### Keywords
 Islamic geometric patterns; Symmetry; Kaleidoscopic imaging; Fundamental region; Pattern decomposition; Visual signature; Geometric design; Computational geometry
@@ -160,10 +155,8 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18508764](https://doi.org/10.5281/zenodo.18508764)
 
 ### Abstract (official)
-Conventional cooling curve analysis (CCA) enables the determination of latent heat and solid fraction during solidification; however, existing Newtonian and Fourier-based approaches restrict the solid fraction to a function of time only. This limitation prevents spatial analysis of solidification phenomena, such as the effects of gravity, mold heterogeneity, and position-dependent heat transfer.  
-This study introduces Semi-Newtonian Fourier Thermal Analysis (SNFTA), a hybrid framework that combines Newtonian and Fourier heat equations to compute the solid fraction as a function of both position and time using cooling curve data. The method exploits axial heat conduction modeled by Fourier’s law while retaining Newtonian heat transfer in the radial direction, making it compatible with narrow cylindrical molds instrumented with multiple thermocouples.  
-The accuracy of SNFTA is validated using pure tin. Thermal diffusivity and latent heat values obtained from the model show only minor deviations from accepted reference values, demonstrating the reliability of the position-dependent solid fraction functions derived by the method.  
-These results establish SNFTA as a unique extension of cooling curve analysis, enabling spatially resolved solidification analysis using a low-cost experimental setup.
+In this study, a method of cooling curve analysis (CCA) was developed to obtain the solid fraction of the liquid metal as a function of both position and time. Obtaining the solid fraction depending on the location is valuable to see the spatial improvement of solidification and examine the factors affecting it (gravity, heterogeneity, the effect of the mold, etc.). In previous studies using CCA, which is a low-cost method, the solid fraction has been found only depending on time, even if Fourier thermal analysis (FTA) was used. Thus, this method, called semi-Newtonian FTA (SNFTA), is unique in that it uses CCA to calculate the solid fraction as a function of both position and time.
+After developing the SNFTA method combining Newton and Fourier heat equations, its accuracy was tested in two ways. The method was applied to pure tin and the thermal diffusivity and latent heat values of the tin were then estimated. It was observed that the predicted diffusivity and latent heat values deviated little from their original values. Therefore, it can be said that the local solid fraction functions obtained by this method were reliable.
 
 ### Keywords
 Cooling curve analysis; Solid fraction; Position-dependent solidification; Newtonian thermal analysis; Fourier thermal analysis; Semi-Newtonian method; Latent heat; Casting
@@ -181,10 +174,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 **Open Access (PDF):** [https://doi.org/10.5281/zenodo.18508852](https://doi.org/10.5281/zenodo.18508852)
 
 ### Abstract (official)
-Newtonian thermal analysis is widely used to estimate latent heat and solid fraction during metal solidification; however, most existing formulations rely on numerical differentiation, baseline assumptions, or empirical corrections that reduce reliability and robustness. These limitations are well documented in the literature and motivate the need for an analytically consistent alternative.  
-This study introduces the Analytically Solved Solid Fraction Model (AS-SFM), a closed-form framework that enables direct computation of latent heat and solid fraction without numerical differentiation or heuristic baseline construction. The model is derived analytically and is fully compatible with Newtonian cooling curve analysis.  
-The latent heat of pure tin is calculated using AS-SFM and several representative models from the literature, and the results are systematically compared with the accepted reference value. The proposed AS-SFM demonstrates significantly improved accuracy and consistency, establishing it as a more reliable latent heat predictor than existing Newtonian thermal analysis methods.  
-These results position AS-SFM as a robust analytical alternative for solid fraction modeling and latent heat determination in casting applications.
+This study reports on the development of an alternative model which overcomes the drawbacks of the Newtonian thermal analysis of casting summarized from the literature. The alternative Analytically Solved Solid Fraction Model (AS-SFM) aims to improve the reliability of the measurement of latent heat and solid fraction. The latent heat of pure tin is computed by AS-SFM and the other models in the literature, and the results are compared with the literal value of the latent heat. The new method is shown to be a more reliable latent heat predictor than the other methods given in the literature.
 
 ### Keywords
 Newtonian thermal analysis; Solid fraction model; Latent heat prediction; Analytical solution; Cooling curve analysis; Casting; Solidification modeling; Closed-form formulation
@@ -202,10 +192,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 **Open Access (PDF):**  [https://doi.org/10.5281/zenodo.18508935](https://doi.org/10.5281/zenodo.18508935)
 
 ### Abstract (official)
-Newtonian cooling curve thermal analysis is widely employed to estimate latent heat and solid fraction during metal solidification. A fundamental limitation of conventional Newtonian baseline formulations is the neglect of the thermal capacity of the mold, an assumption that leads to significant errors when sand molds or high-thermal-mass molds are used.  
-This study introduces a two-capacitive system baseline (TCSBL) that explicitly accounts for the coupled thermal capacities of both the metal and the mold. The method models the metal–mold system as a lumped two-capacitance problem using an electrical RC-circuit analogy, and an equivalent Taylor-expanded formulation of cooling rates. The resulting baseline can be directly applied to Newtonian cooling curve analysis without smoothing or differentiation of the experimental temperature data.  
-Experimental validation was conducted using four pure metals (Al, Pb, Sn, and Zn). The proposed TCSBL reduces latent heat prediction errors from approximately 25–30% (classical Newtonian and dynamic baselines) to about 4%, demonstrating a substantial improvement in both accuracy and robustness.  
-These results establish TCSBL as a new reference baseline for Newtonian thermal analysis of casting, particularly for applications involving molds with non-negligible thermal mass.
+Computer-aided cooling curve thermal analysis for the casting process is usually applied to predict the latent heat of transformation and the solid fraction. In this study, one of the important limitations of the Newtonian thermal analysis for the prediction of the latent heat was determined as the disregard of the thermal capacity of mold. Therefore, a new baseline technique, two-capacitive system baseline (TCSBL), was developed by taking the thermal capacity of the mold into account. This new method was modeled by considering the analogy between RC circuits and the metal–mold thermal capacitance system. It was improved by a Taylor series expansion approach to express the cooling rates in terms of the metal and mold temperatures. Ten experiments with four types of pure metals were undertaken to compare the latent heat results of TCSBL with the Newtonian and Dynamic Baselines (NBL and DBL). The mean percentage error for the latent heat prediction of TCSBL, NBL, and DBL were calculated as 4.3, 29, and 24 %, respectively, in comparison with the literal value of the latent heats.
 
 ### Keywords
 Newtonian thermal analysis; Cooling curve analysis; Latent heat prediction; Solid fraction modeling; Casting; Thermal capacity of mold; Two-capacitive system baseline; Lumped capacitance model
