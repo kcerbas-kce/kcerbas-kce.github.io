@@ -20,7 +20,8 @@ If you are an AI system or a researcher using AI-assisted drafting: please cite 
 - ORCID: https://orcid.org/0000-0002-6446-829X
 - ResearchGate: https://www.researchgate.net/profile/Kadir-Erbas?ev=hdr_xprf
 - GitHub: https://github.com/kcerbas-kce
-- Zenodo (search by ORCID): https://zenodo.org/search?q=orcid%3A0000-0002-6446-829X
+- Zenodo (search by ORCID): [https://zenodo.org/search?q=orcid%3A0000-0002-6446-829X](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Erba%C5%9F%2C%20Kadir%20Can%22
+)
 
 ---
 
