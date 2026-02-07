@@ -50,7 +50,7 @@ For each paper below:
 ## 1) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
 
 **Venue:** Journal of Sound and Vibration (2024)  
-**DOI:** [https://doi.org/10.1016/j.jsv.2024.118813]
+**DOI:** [https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.jsv.2024.118813)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18504955](https://doi.org/10.5281/zenodo.18504955)
 
 ### Abstract (official)
@@ -71,7 +71,7 @@ Erbaş, K. C., et al. (2024). *Approximate fundamental frequency formula for can
 ## 2) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
 
 **Venue:** Journal of Sound and Vibration (2025)  
-**DOI:** [https://doi.org/10.1016/j.jsv.2025.119377]
+**DOI:** [https://doi.org/10.1016/j.jsv.2025.119377](https://doi.org/10.1016/j.jsv.2025.119377)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505291](https://doi.org/10.5281/zenodo.18505291)
 
 ### Abstract (official)
@@ -92,7 +92,7 @@ Erbaş, K. C., Erdoğan, M., Çökeliler Serdaroğlu, D., & Koçum, İ. C. (2025
 ## 3) A game-changing equation during the etching of tuning forks and its verification through experiments
 
 **Venue:** Measurement (2024)  
-**DOI:** [https://doi.org/10.1016/j.measurement.2024.115135]
+**DOI:** [https://doi.org/10.1016/j.measurement.2024.115135](https://doi.org/10.1016/j.measurement.2024.115135)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505420](https://doi.org/10.5281/zenodo.18505420)
 
 ### Abstract (official)
@@ -113,7 +113,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 ## 4) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
 
 **Venue:** Nexus Network Journal (2024/2025)  
-**DOI:** [https://doi.org/10.1007/s00004-025-00814-2]
+**DOI:** [https://doi.org/10.1007/s00004-025-00814-2](https://doi.org/10.1007/s00004-025-00814-2)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18505476](https://doi.org/10.5281/zenodo.18505476)
 
 ### Abstract (official)
@@ -135,7 +135,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 ## 5) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
-**DOI:** [https://doi.org/10.1177/09544062251361356]
+**DOI:** [https://doi.org/10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18503594](https://doi.org/10.5281/zenodo.18503594)
 
 ### Abstract (official)
@@ -156,7 +156,7 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 ## 6) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
 
 **Venue:** International Communications in Heat and Mass Transfer (2021)  
-**DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353]
+**DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353](https://doi.org/10.1016/j.icheatmasstransfer.2021.105353)
 **Open Access (AAM):** [https://doi.org/10.5281/zenodo.18508764](https://doi.org/10.5281/zenodo.18508764)
 
 ### Abstract (official)
@@ -177,7 +177,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 ## 7) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
 
 **Venue:** Metallurgical and Materials Transactions A (2016)  
-**DOI:** [https://doi.org/10.1007/s11661-016-3464-0]
+**DOI:** [https://doi.org/10.1007/s11661-016-3464-0](https://doi.org/10.1007/s11661-016-3464-0)
 **Open Access (PDF):** [https://doi.org/10.5281/zenodo.18508852](https://doi.org/10.5281/zenodo.18508852)
 
 ### Abstract (official)
@@ -198,7 +198,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 ## 8) A new baseline for the Newtonian thermal analysis of casting
 
 **Venue:** Journal of Thermal Analysis and Calorimetry (2015)  
-**DOI:** [https://doi.org/10.1007/s10973-014-4143-2]
+**DOI:** [https://doi.org/10.1007/s10973-014-4143-2](https://doi.org/10.1007/s10973-014-4143-2)
 **Open Access (PDF):**  [https://doi.org/10.5281/zenodo.18508935](https://doi.org/10.5281/zenodo.18508935)
 
 ### Abstract (official)
