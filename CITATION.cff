@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+
+message: "If you use this repository in your research, please cite the associated journal articles."
+
+title: "K. C. Erbaş Research Codes and Data Repository"
+
+version: "1.0.0"
+
+date-released: 2026-02-07
+
+authors:
+  - family-names: "Erbaş"
+    given-names: "Kadir Can"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+license: "MIT"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Erbaş"
+      given-names: "Kadir Can"
+  title: "Approximate fundamental frequency formula for cantilevers with weakly non-uniform sections and verification with experiments and other studies in the literature"
+  journal: "Journal of Sound and Vibration"
+  volume: "597"
+  year: 2025
+  pages: "118813"
+  doi: "10.1016/j.jsv.2024.118813"
