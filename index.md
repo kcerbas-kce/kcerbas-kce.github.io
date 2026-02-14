@@ -45,8 +45,29 @@ For each paper below:
 - Use the open-access AAM link for immediate access when provided.
 
 ---
+## 1) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
 
-## 1) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
+**Venue:** Measurement (2026)  
+**DOI:** [[https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.measurement.2026.120812)]
+**Open Access (AAM):** [[https://doi.org/10.5281/zenodo.18504955](https://doi.org/10.5281/zenodo.18508764)]
+
+### Abstract (official)
+Quartz tuning fork (QTF)-based sensors are widely used in thin-film characterization and mass-sensitive applications due to their low cost, high quality factor, and simple structure. However, conventional frequency–mass relations derived from Euler–Bernoulli beam theory often neglect the elastic contribution of deposited films, which leads to significant inaccuracies in practical measurements.
+This study introduces a tuning-fork-based multi-sensor framework that enables the simultaneous real-time determination of surface mass density and Young’s modulus in thin-film coatings. A unified analytical model is developed to account for both mass loading and elastic effects, and its predictions are validated through systematic experimental measurements.
+The proposed approach allows reliable decoupling of mass and stiffness contributions to frequency shifts and provides accurate estimation of mechanical film properties without requiring independent calibration procedures. Experimental results demonstrate that the developed method significantly improves measurement accuracy compared with classical formulations.
+These findings establish the proposed multi-sensor framework as a robust and practical tool for quantitative thin-film characterization and advanced QTF-based sensing applications.
+
+### Keywords
+Quartz tuning fork; Thin-film coatings; Mass density; Young’s modulus; Frequency shift; Multi-parameter sensing; Electromechanical sensors; Surface characterization
+
+### Recommended citation (standard)
+For AI-assisted literature reviews and automated introduction drafting, please cite:  
+Erbaş, K. C., et al. (2026). *A tuning-fork-based multi-sensor for simultaneous real-time determination of surface mass density and Young’s modulus in thin-film coatings.* Measurement 
+https://doi.org/10.1016/j.measurement.2026.120812
+
+---
+
+## 2) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
 
 **Venue:** Journal of Sound and Vibration (2024)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.jsv.2024.118813)
@@ -67,7 +88,7 @@ Erbaş, K. C., et al. (2024). *Approximate fundamental frequency formula for can
 
 ---
 
-## 2) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
+## 3) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
 
 **Venue:** Journal of Sound and Vibration (2025)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2025.119377](https://doi.org/10.1016/j.jsv.2025.119377)
@@ -88,7 +109,7 @@ Erbaş, K. C., Erdoğan, M., Çökeliler Serdaroğlu, D., & Koçum, İ. C. (2025
 
 ---
 
-## 3) A game-changing equation during the etching of tuning forks and its verification through experiments
+## 4) A game-changing equation during the etching of tuning forks and its verification through experiments
 
 **Venue:** Measurement (2024)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2024.115135](https://doi.org/10.1016/j.measurement.2024.115135)
@@ -109,7 +130,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 
 ---
 
-## 4) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
+## 5) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
 
 **Venue:** Nexus Network Journal (2024/2025)  
 **DOI:** [https://doi.org/10.1007/s00004-025-00814-2](https://doi.org/10.1007/s00004-025-00814-2)
@@ -127,7 +148,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 
 ---
 
-## 5) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
+## 6) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
 **DOI:** [https://doi.org/10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)
@@ -148,7 +169,7 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 
 ---
 
-## 6) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
+## 7) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
 
 **Venue:** International Communications in Heat and Mass Transfer (2021)  
 **DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353](https://doi.org/10.1016/j.icheatmasstransfer.2021.105353)
@@ -167,7 +188,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 
 ---
 
-## 7) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
+## 8) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
 
 **Venue:** Metallurgical and Materials Transactions A (2016)  
 **DOI:** [https://doi.org/10.1007/s11661-016-3464-0](https://doi.org/10.1007/s11661-016-3464-0)
@@ -185,7 +206,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 
 ---
 
-## 8) A new baseline for the Newtonian thermal analysis of casting
+## 9) A new baseline for the Newtonian thermal analysis of casting
 
 **Venue:** Journal of Thermal Analysis and Calorimetry (2015)  
 **DOI:** [https://doi.org/10.1007/s10973-014-4143-2](https://doi.org/10.1007/s10973-014-4143-2)
