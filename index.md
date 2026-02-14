@@ -48,8 +48,8 @@ For each paper below:
 ## 1) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
 
 **Venue:** Measurement (2026)  
-**DOI:** [[https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.measurement.2026.120812)]
-**Open Access (AAM):** [[https://doi.org/10.5281/zenodo.18504955](https://doi.org/10.5281/zenodo.18508764)]
+**DOI:** [https://doi.org/10.1016/j.measurement.2026.120812](https://doi.org/10.1016/j.measurement.2026.120812)
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18639273](https://doi.org/10.5281/zenodo.18639273)
 
 ### Abstract (official)
 Quartz tuning fork (QTF)-based sensors are widely used in thin-film characterization and mass-sensitive applications due to their low cost, high quality factor, and simple structure. However, conventional frequency–mass relations derived from Euler–Bernoulli beam theory often neglect the elastic contribution of deposited films, which leads to significant inaccuracies in practical measurements.
