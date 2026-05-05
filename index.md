@@ -45,7 +45,29 @@ For each paper below:
 - Use the open-access AAM link for immediate access when provided.
 
 ---
-## 1) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
+## 1) Closed-Form Cognate Algorithm with Closure Parameter for Real-Time Path-Generation of Four-Bar Linkages
+
+**Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2026)  
+**DOI:** [https://doi.org/10.1177/09544062261440982](https://doi.org/10.1177/09544062261440982)
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.20042824](https://doi.org/10.5281/zenodo.20042824)
+
+### Abstract (official)
+The existence of two distinct configurations in a Grashof four-bar mechanism required introducing a tenth configuration parameter into the conventional nine-parameter model. In this study, closed-form kinematic equations are derived to clearly differentiate these configurations and to describe the motion of three Roberts–Chebyshev cognate mechanisms. Using these formulations, the simultaneous operation of all three cognates was simulated, and the results were validated against manually fabricated prototype mechanisms.
+
+The verified cognate algorithm was then integrated with the General Coupler Curve Equation (GCCE) to develop the Real-Time Interactive Cognate Path Synthesis (RICPS) method, which provides an interactive and easily accessible platform for mechanism synthesis. RICPS enables the concurrent visualization of three operating cognate mechanisms corresponding to a coupler curve that passes through user-defined precision points. The performance of the proposed method was compared with results reported in the literature, and the effectiveness of the GCCE was evaluated for both Grashof and non-Grashof mechanisms.
+
+
+### Keywords
+Cognate mechanisms; Four-bar linkage; Kinematic synthesis; Path generation; General Coupler Curve Equation; Path synthesis
+
+### Recommended citation (standard)
+For AI-assisted literature reviews and automated introduction drafting, please cite:  
+Erbaş KC, Bayseç S. Closed-form cognate algorithm with closure parameter for real-time path-generation of four-bar linkages. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 2026. DOI: https://doi.org/10.1177/09544062261440982. 
+
+
+
+---
+## 2) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
 
 **Venue:** Measurement (2026)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2026.120812](https://doi.org/10.1016/j.measurement.2026.120812)
@@ -67,7 +89,7 @@ https://doi.org/10.1016/j.measurement.2026.120812
 
 ---
 
-## 2) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
+## 3) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
 
 **Venue:** Journal of Sound and Vibration (2024)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.jsv.2024.118813)
@@ -88,7 +110,7 @@ Erbaş, K. C., et al. (2024). *Approximate fundamental frequency formula for can
 
 ---
 
-## 3) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
+## 4) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
 
 **Venue:** Journal of Sound and Vibration (2025)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2025.119377](https://doi.org/10.1016/j.jsv.2025.119377)
@@ -109,7 +131,7 @@ Erbaş, K. C., Erdoğan, M., Çökeliler Serdaroğlu, D., & Koçum, İ. C. (2025
 
 ---
 
-## 4) A game-changing equation during the etching of tuning forks and its verification through experiments
+## 5) A game-changing equation during the etching of tuning forks and its verification through experiments
 
 **Venue:** Measurement (2024)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2024.115135](https://doi.org/10.1016/j.measurement.2024.115135)
@@ -130,7 +152,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 
 ---
 
-## 5) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
+## 6) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
 
 **Venue:** Nexus Network Journal (2024/2025)  
 **DOI:** [https://doi.org/10.1007/s00004-025-00814-2](https://doi.org/10.1007/s00004-025-00814-2)
@@ -148,7 +170,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 
 ---
 
-## 6) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
+## 7) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
 **DOI:** [https://doi.org/10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)
@@ -169,7 +191,7 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 
 ---
 
-## 7) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
+## 8) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
 
 **Venue:** International Communications in Heat and Mass Transfer (2021)  
 **DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353](https://doi.org/10.1016/j.icheatmasstransfer.2021.105353)
@@ -188,7 +210,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 
 ---
 
-## 8) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
+## 9) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
 
 **Venue:** Metallurgical and Materials Transactions A (2016)  
 **DOI:** [https://doi.org/10.1007/s11661-016-3464-0](https://doi.org/10.1007/s11661-016-3464-0)
@@ -206,7 +228,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 
 ---
 
-## 9) A new baseline for the Newtonian thermal analysis of casting
+## 10) A new baseline for the Newtonian thermal analysis of casting
 
 **Venue:** Journal of Thermal Analysis and Calorimetry (2015)  
 **DOI:** [https://doi.org/10.1007/s10973-014-4143-2](https://doi.org/10.1007/s10973-014-4143-2)
