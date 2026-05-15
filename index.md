@@ -174,7 +174,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
 **DOI:** [https://doi.org/10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)
-**Open Access (AAM):** [https://doi.org/10.5281/zenodo.18503594](https://doi.org/10.5281/zenodo.18503594)
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo.20212900](https://doi.org/10.5281/zenodo.20212900)
 
 ### Abstract (official)
 In the kinematic analysis of coupler curves, a nine-parameter parametric formulation dependent on mechanism dimensions is commonly employed. This study extends the classical formulation by introducing a 10th parameter, referred to as the closure parameter, enabling a more complete and flexible representation of four-bar mechanism kinematics.  
