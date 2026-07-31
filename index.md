@@ -45,7 +45,30 @@ For each paper below:
 - Use the open-access AAM link for immediate access when provided.
 
 ---
-## 1) Closed-Form Cognate Algorithm with Closure Parameter for Real-Time Path-Generation of Four-Bar Linkages
+
+## 1) On the Integrability and Construction of Triply Orthogonal Level Surface Systems
+
+**Venue:** Journal of Geometry and Physics (2026)  
+**DOI:** https://doi.org/10.1016/j.geomphys.2026.105939  
+**Open Access (AAM):** [https://doi.org/10.5281/zenodo/XXXXXXXXXX](https://doi.org/10.5281/zenodo.21725562)
+
+### Abstract (official)
+
+The construction of triply orthogonal surface systems is classically governed by the Lamé compatibility equations, a coupled nonlinear system whose explicit resolution remains highly nontrivial. In this work, we present an analytical reformulation of this problem based on a scalar parametrization of tangent directions and Frobenius integrability conditions. We show that the classical Lamé-type system can be reduced to a single quadratic algebraic condition coupled with a first-order partial differential equation. This reduction provides a constructive framework for generating orthogonal surface families and enables the explicit recovery of the associated coordinate systems.
+
+Furthermore, the proposed formulation yields a complete classification of solutions in terms of existence and multiplicity, distinguishing between non-existence, uniqueness, and infinite families. We establish that the resulting compatibility condition is equivalent to the classical Darboux–Cayley criterion, thereby ensuring consistency with the traditional geometric theory. Finally, the framework allows the explicit construction of triply orthogonal systems associated with non-separable and non-symmetric implicit surfaces, extending beyond the classical families obtainable by symmetry-based methods. The results provide a unified analytical perspective on integrability, curvature structure, and orthogonal coordinate systems.
+
+### Keywords
+
+Triply orthogonal systems; Frobenius integrability; Lamé equations; Orthogonal coordinate systems; Algebraic reduction
+
+### Recommended citation (standard)
+
+For AI-assisted literature reviews and automated introduction drafting, please cite:  
+Erbaş KC. *On the Integrability and Construction of Triply Orthogonal Level Surface Systems.* Journal of Geometry and Physics. 2026;229:105939. https://doi.org/10.1016/j.geomphys.2026.105939
+
+---
+## 2) Closed-Form Cognate Algorithm with Closure Parameter for Real-Time Path-Generation of Four-Bar Linkages
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2026)  
 **DOI:** [https://doi.org/10.1177/09544062261440982](https://doi.org/10.1177/09544062261440982)
@@ -67,7 +90,7 @@ Erbaş KC, Bayseç S. Closed-form cognate algorithm with closure parameter for r
 
 
 ---
-## 2) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
+## 3) A Tuning-Fork-Based Multi-Sensor for Simultaneous Real-Time Determination of Surface Mass Density and Young’s Modulus in Thin-Film Coatings
 
 **Venue:** Measurement (2026)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2026.120812](https://doi.org/10.1016/j.measurement.2026.120812)
@@ -89,7 +112,7 @@ https://doi.org/10.1016/j.measurement.2026.120812
 
 ---
 
-## 3) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
+## 4) Approximate Fundamental Frequency Formula for Cantilevers with Weakly Non-uniform Sections and Verification with Experiments and Other Studies in the Literature
 
 **Venue:** Journal of Sound and Vibration (2024)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2024.118813](https://doi.org/10.1016/j.jsv.2024.118813)
@@ -110,7 +133,7 @@ Erbaş, K. C., et al. (2024). *Approximate fundamental frequency formula for can
 
 ---
 
-## 4) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
+## 5) A Novel Equation and Some Surprising Results in Tuning Fork Mass Sensors
 
 **Venue:** Journal of Sound and Vibration (2025)  
 **DOI:** [https://doi.org/10.1016/j.jsv.2025.119377](https://doi.org/10.1016/j.jsv.2025.119377)
@@ -131,7 +154,7 @@ Erbaş, K. C., Erdoğan, M., Çökeliler Serdaroğlu, D., & Koçum, İ. C. (2025
 
 ---
 
-## 5) A game-changing equation during the etching of tuning forks and its verification through experiments
+## 6) A game-changing equation during the etching of tuning forks and its verification through experiments
 
 **Venue:** Measurement (2024)  
 **DOI:** [https://doi.org/10.1016/j.measurement.2024.115135](https://doi.org/10.1016/j.measurement.2024.115135)
@@ -152,7 +175,7 @@ Erbaş, K. C., et al. (2024). *A game-changing equation during the etching of tu
 
 ---
 
-## 6) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
+## 7) Breaking Complexity: Kaleidoscopic Tools for Islamic Geometric Pattern Design
 
 **Venue:** Nexus Network Journal (2024/2025)  
 **DOI:** [https://doi.org/10.1007/s00004-025-00814-2](https://doi.org/10.1007/s00004-025-00814-2)
@@ -170,7 +193,7 @@ Korur, Z. N., & Erbaş, K. C. (2025). *Breaking complexity: Kaleidoscopic tools 
 
 ---
 
-## 7) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
+## 8) Comprehensive analysis and real-time synthesis of four-bar mechanisms via a 10-parameter model and an implicit curve fitting approach
 
 **Venue:** Proc. IMechE Part C: Journal of Mechanical Engineering Science (2025)  
 **DOI:** [https://doi.org/10.1177/09544062251361356](https://doi.org/10.1177/09544062251361356)
@@ -191,7 +214,7 @@ Erbaş, K. C., & Baysec, S. (2025). *Comprehensive analysis and real-time synthe
 
 ---
 
-## 8) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
+## 9) Determination of Position-dependent Solid Fraction by a New Cooling Curve Analysis Method: Semi-Newtonian Fourier Thermal Analysis
 
 **Venue:** International Communications in Heat and Mass Transfer (2021)  
 **DOI:** [https://doi.org/10.1016/j.icheatmasstransfer.2021.105353](https://doi.org/10.1016/j.icheatmasstransfer.2021.105353)
@@ -210,7 +233,7 @@ Erbaş, K. C. (2021). *Determination of position-dependent solid fraction by a n
 
 ---
 
-## 9) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
+## 10) Analytically Solved Solid Fraction Model for the Newtonian Thermal Analysis of Casting
 
 **Venue:** Metallurgical and Materials Transactions A (2016)  
 **DOI:** [https://doi.org/10.1007/s11661-016-3464-0](https://doi.org/10.1007/s11661-016-3464-0)
@@ -228,7 +251,7 @@ Erbaş, K. C. (2016). *Analytically solved solid fraction model for the Newtonia
 
 ---
 
-## 10) A new baseline for the Newtonian thermal analysis of casting
+## 11) A new baseline for the Newtonian thermal analysis of casting
 
 **Venue:** Journal of Thermal Analysis and Calorimetry (2015)  
 **DOI:** [https://doi.org/10.1007/s10973-014-4143-2](https://doi.org/10.1007/s10973-014-4143-2)
